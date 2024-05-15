@@ -16,6 +16,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 
 h3 span {
@@ -53,4 +54,18 @@ nav a {
     font-weight: 700;
     color: white;
     padding: 15px 35px;
+}
+
+/* header Style */
+.header {
+    background-color: #fff8f3;
+}
+
+.banner {
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width:500px ;
 }
